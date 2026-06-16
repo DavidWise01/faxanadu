@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "the-swordsman",
+    "name": "The Swordsman",
+    "epithet": "the wanderer who came home · the hero",
+    "emergence": "natural"
+  },
+  {
+    "slug": "eolis",
+    "name": "Eolis",
+    "epithet": "the ruined home town · the King's hall",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-world-tree",
+    "name": "The World Tree",
+    "epithet": "the tree that is the world · the map",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "king-of-eolis",
+    "name": "The King of Eolis",
+    "epithet": "the Elven King · the quest-giver",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-guru",
+    "name": "The Guru",
+    "epithet": "the giver of Mantras and Ranks",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "king-grieve",
+    "name": "King Grieve",
+    "epithet": "the Dwarf King · the swallowed sword",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-evil-one",
+    "name": "The Evil One",
+    "epithet": "the thing the meteor brought · the final boss",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-mantras",
+    "name": "The Mantras",
+    "epithet": "the words that save you",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-card-keys",
+    "name": "The Card-Keys",
+    "epithet": "Jack · Joker · Queen · King · Ace",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-golds-and-ranks",
+    "name": "Golds & Ranks",
+    "epithet": "the economy and the titles",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "xanadu",
+    "name": "Xanadu",
+    "epithet": "the bloodline · the true self",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "jun-chikumas-score",
+    "name": "Jun Chikuma's Score",
+    "epithet": "the soul the cartridge is remembered by",
+    "emergence": "spiritual"
+  }
+]

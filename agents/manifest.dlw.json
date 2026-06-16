@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Jun Chikuma's Score",
+  "universe": "FAX · Faxanadu",
+  "emergence": "spiritual",
+  "moniker": "⟦Jun Chikuma's Score:FAX:46f58b⟧",
+  "carbon": "jun-chikumas-score.carbon.tiff (TIFF)",
+  "silicon": "jun-chikumas-score.silicon.png (PNG)",
+  "seal_sha256": "265196444421b1fe0fc8f34d6759703d2967a19f236e250e4caf04d548630399",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

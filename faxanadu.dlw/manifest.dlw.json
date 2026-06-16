@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "FAXANADU",
+  "universe": "FAX · Faxanadu",
+  "emergence": "",
+  "moniker": "⟦FAXANADU:FAX:998f2e⟧",
+  "carbon": "faxanadu.carbon.tiff (TIFF)",
+  "silicon": "faxanadu.silicon.png (PNG)",
+  "seal_sha256": "709ef438537e60f89d12fb8e19cec08c9740f397e0b4d117af0935115b418f04",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
